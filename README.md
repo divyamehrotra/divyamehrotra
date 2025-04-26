@@ -24,7 +24,7 @@
 
 - 🌱 I’m currently deep-diving into **Backend Development** and **Machine Learning**.
 - 💬 Ask me about **APIs, Node.js, MongoDB, SQL**, and **Python scripting**.
-- 📫 How to reach me: **mehrotradivya54@gmail.com** (update with your real email)
+- 📫 How to reach me: **mehrotradivya54@gmail.com** 
 - ⚡ Fun fact: I love solving real-world problems through technology!
 
 ---
